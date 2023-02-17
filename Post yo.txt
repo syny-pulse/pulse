@@ -1,0 +1,5 @@
+<html>
+<body> <h1> Pulse Stores Ug </h1>
+<h2> Drag a photo of your desired item and post it here, talk 
+to our network of suppliers </h2>
+</html>
