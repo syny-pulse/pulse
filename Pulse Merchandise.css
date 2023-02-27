@@ -1,6 +1,81 @@
-body{
-background-color:orange;}
-
 h1{
 color:blue;
 text-align:center;}
+body{
+color: #fffdfc;
+background-color: #070707;
+font-size:25px;}
+
+head{
+background-color: #faf9f7;
+}
+
+h1{
+text-shadow: 4px 2px;
+height:100px;
+font-size:50px;
+color:black;
+text-align:center;
+background-color: #faf9f7;
+margin-top:-20px;
+padding:10px;
+}
+
+img.a{
+margin-right:40px;
+height:80px;
+padding:5px 10px 0px 80px;
+margin:auto;
+float:left;
+}
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color:green;
+}
+ul.a{
+height:60px;
+font-size:20px;
+background-color:orange;
+font-weight:bold;
+text-align:right;
+padding:10px;
+}
+
+li{
+display:inline;
+padding:10px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+head{
+background-color: #faf9f7;
+}
